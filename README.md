@@ -1,5 +1,19 @@
 # Changelog
 
+### v1.2.0
+- Updated for Minecraft verion 26.1 and above
+- Requires Java 25 and above
+- Permission for players to use the plugin is set to default
+
+### v1.1.3
+- Fixed local versioning.
+
+### v1.1.2
+- Optimized code for future versions.
+
+### v1.1.1
+- Fixed a bug where maximum health is not updating when relogging in.
+
 ### v1.1.0
 - Supports Minecraft versions **1.18.x** to **1.21.x**
 - Notification message is now configurable.
